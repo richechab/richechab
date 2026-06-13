@@ -1,22 +1,9 @@
 <div align="center">
 
 # Heyyy! I'm Riche
-
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;UI%2FUX+Designer+🎨;Creative+Learner+🌷;Future+Web+Developer+💻" />
-
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="700"/>
-
-</div>
-
----
-
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="center">
 
@@ -26,7 +13,7 @@
 
 ---
 
-## 🎀 Software I Use
+## Software I Use
 
 <p align="center">
 
@@ -46,7 +33,7 @@
 
 ---
 
-## 📊 My Statistics
+## My Statistics
 
 <p align="center">
 
