@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Heyyy! I'm Riche Habibah 🌸
+# Heyyy! I'm Riche
 
 <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=28&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;UI%2FUX+Designer+🎨;Creative+Learner+🌷;Future+Web+Developer+💻" />
 
@@ -22,25 +22,6 @@
 <tr>
 <td width="50%">
 
-### ✨ Profile
-
-- 🎓 Information Systems Student
-- 🎨 UI/UX Enthusiast
-- 💻 Learning Front-End Development
-- 🌸 Love Aesthetic Design
-- ☕ Coffee & Creative Ideas
-
-</td>
-
-<td width="50%">
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🧰 Languages & Tools
 
