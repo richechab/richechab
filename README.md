@@ -16,13 +16,6 @@
 
 ---
 
-## 🌷 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-
 ## 🧰 Languages & Tools
 
 <p align="center">
