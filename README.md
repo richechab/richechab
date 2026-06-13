@@ -64,7 +64,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🐾 My Projects
+## My Projects
 
 | Project | Category |
 |----------|----------|
@@ -86,7 +86,7 @@
 
 ---
 
-## 🌸 Connect With Me
+## Connect With Me
 
 <p align="center">
 
@@ -106,7 +106,7 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="180"/>
 
-### 🌷 Thanks For Visiting My Profile 🌷
+### Thanks For Visiting My Profile
 
 <img src="https://komarev.com/ghpvc/?username=richechab&color=8B1A1A&style=for-the-badge"/>
 
