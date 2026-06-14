@@ -1,14 +1,15 @@
 <div align="center">
 
-# Heyyy! I'm Riche
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Heyyy!%20I'm%20Riche%20💖&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60" width="100%" />
+
+</div>
+
 ---
 
 ## Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,figma,git,github,vscode"/>
-
+  ...
 </p>
 
 ---
