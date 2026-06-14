@@ -74,7 +74,7 @@
 </p>
 
 <div align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500"/>
 
 ### ✪ Thanks For Visiting My Profile ✪
 
