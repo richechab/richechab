@@ -2,10 +2,6 @@
   <img src="https://github.com/richechab/richechab/blob/main/cecepic.png?raw=true"/>
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+✨;UI%2FUX+Designer+🎨;Information+Systems+Student+💻;Creative+Technology+Enthusiast+🌷" />
-</p>
-
 ---
 
 <p align="center">
