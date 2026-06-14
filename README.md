@@ -2,12 +2,6 @@
   <img src="https://github.com/richechab/richechab/blob/main/cecepic.png?raw=true"/>
 </div>
 
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=Languages%20%26%20Tools&fontColor=ffffff&fontSize=30"/>
-</p>
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender" />
 </p>
