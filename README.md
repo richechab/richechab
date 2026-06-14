@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender,coreldraw,photoshop,ms.word,canva,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender,photoshop,javascript" />
 </p>
 
 <p align="center">
