@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Heyyy!%20I'm%20Riche%20💖&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Heyyy!%20I'm%20Riche%20💖&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20|%20UI/UX%20Designer&descAlignY=60" width="100%" />
 
 </div>
 
@@ -9,7 +9,21 @@
 ## Languages & Tools
 
 <p align="center">
-  ...
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CorelDRAW-8B1A1A?style=for-the-badge&logo=coreldraw&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Photoshop-800020?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-8B0000?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Word-1a0a0a?style=for-the-badge&logo=microsoftword&logoColor=C9A0DC"/>
+
+<img src="https://img.shields.io/badge/Canva-5C0A0A?style=for-the-badge&logo=canva&logoColor=white"/>
+
 </p>
 
 ---
@@ -23,6 +37,8 @@
 <img src="https://img.shields.io/badge/Canva-8B1A1A?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Blender-6D0F0F?style=for-the-badge&logo=blender&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CorelDRAW-7A0019?style=for-the-badge&logo=coreldraw&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Photoshop-800020?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
