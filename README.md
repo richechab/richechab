@@ -1,56 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Heyyy!%20I'm%20Riche%20&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20|%20UI/UX%20Designer&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=25,30,24,18&text=Heyyy!%20I'm%20Riche%20💖&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20|%20UI/UX%20Designer&descAlignY=60" width="100%" />
 
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=C9A0DC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+✨;UI%2FUX+Designer+🎨;Information+Systems+Student+💻;Creative+Technology+Enthusiast+🌷" />
+</p>
+
 ---
 
-## Languages & Tools
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=Languages%20%26%20Tools&fontColor=ffffff&fontSize=30"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/CorelDRAW-8B1A1A?style=for-the-badge&logo=coreldraw&logoColor=white"/>
+<img src="https://img.shields.io/badge/CorelDRAW-7A0019?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Adobe_Photoshop-800020?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-8B0000?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Word-1a0a0a?style=for-the-badge&logo=microsoftword&logoColor=C9A0DC"/>
+<img src="https://img.shields.io/badge/Microsoft_Word-4B0F1E?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Canva-5C0A0A?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-B76E79?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </p>
 
 ---
 
-## Software I Use
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=Software%20I%20Use&fontColor=ffffff&fontSize=30"/>
+</p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Figma-C41E3A?style=for-the-badge&logo=figma&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Canva-8B1A1A?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-B76E79?style=for-the-badge&logo=canva&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Blender-6D0F0F?style=for-the-badge&logo=blender&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CorelDRAW-7A0019?style=for-the-badge&logo=coreldraw&logoColor=white"/>
+<img src="https://img.shields.io/badge/CorelDRAW-7A0019?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Photoshop-800020?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Premiere_Pro-8B0000?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Word-1a0a0a?style=for-the-badge&logo=microsoftword&logoColor=C9A0DC"/>
+<img src="https://img.shields.io/badge/Microsoft_Word-4B0F1E?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 
 </p>
 
 ---
 
-## My Statistics
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=My%20Statistics&fontColor=ffffff&fontSize=30"/>
+</p>
 
 <p align="center">
 
@@ -68,17 +78,21 @@
 
 ---
 
-## Activity Graph
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=Activity%20Graph&fontColor=ffffff&fontSize=30"/>
+</p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=richechab&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=C9A0DC&line=8B1A1A&point=C9A0DC"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=richechab&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=C9A0DC&line=B76E79&point=F8C8DC"/>
 
 </p>
 
 ---
 
-## My Projects
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=My%20Projects&fontColor=ffffff&fontSize=30"/>
+</p>
 
 | Project | Category |
 |----------|----------|
@@ -90,16 +104,18 @@
 
 ---
 
-## Connect With Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=Connect%20With%20Me&fontColor=ffffff&fontSize=30"/>
+</p>
 
 <p align="center">
 
 <a href="https://instagram.com/richechab">
-<img src="https://img.shields.io/badge/Instagram-8B1A1A?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-B03060?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:richehabibah@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6D0F0F?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -110,8 +126,8 @@
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="180"/>
 
-### Thanks For Visiting My Profile
+### ✨ Thanks For Visiting My Profile ✨
 
-<img src="https://komarev.com/ghpvc/?username=richechab&color=8B1A1A&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=richechab&color=B03060&style=for-the-badge"/>
 
 </div>
