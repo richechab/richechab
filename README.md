@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/richechab/richechab/blob/main/cecepic.png?raw=true" width="180"/>
+  <img src="https://github.com/richechab/richechab/blob/main/cecepic.png?raw=true"/>
 </div>
 
 <p align="center">
