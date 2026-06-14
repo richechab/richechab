@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=25,30,24,18&text=Ciao ! Piacere, mi chiamo%20I'm%20Riche%20&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20|%20UI/UX%20Designer&descAlignY=60" width="100%" />
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=25,30,24,18&text=Ciao ! Piacere, mi chiamo%20I'm%20Riche%20&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Information%20Systems%20Student%20|%20UI/UX%20Designer&descAlignY=60" width="100%" />](https://github.com/richechab/richechab/blob/main/cecepic.png?raw=true)
 
 </div>
 
