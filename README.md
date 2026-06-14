@@ -3,18 +3,8 @@
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma,blender,coreldraw,photoshop,ms.word,canva,javascript" />
 </p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/CorelDRAW-7A0019?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-800020?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Premiere_Pro-8B0000?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Word-4B0F1E?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-B76E79?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
-
----
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=25,30,24,18&height=70&text=Software%20I%20Use&fontColor=ffffff&fontSize=30"/>
