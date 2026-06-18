@@ -44,7 +44,7 @@
       <td align="center">Fashion App UI/UX</td>
     </tr>
     <tr>
-      <td align="center">X-Garden Aromatherapy</td>
+      <td align="center">Brand Identity</td>
       <td align="center">Brand Identity</td>
     </tr>
     <tr>
