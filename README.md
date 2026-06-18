@@ -17,15 +17,6 @@
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=richechab&show_icons=true&theme=rose_pine&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richechab&layout=compact&theme=rose_pine&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=richechab&theme=rose_pine&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=richechab&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=C9A0DC&line=B76E79&point=F8C8DC"/>
 </p>
 
