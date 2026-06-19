@@ -67,7 +67,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="500"/>
 
-### ✪ Thanks For Visiting My Profile ✪
+✪ Thanks For Visiting My Profile ✪
 
 <img src="https://komarev.com/ghpvc/?username=richechab&color=B03060&style=for-the-badge"/>
 </div>
